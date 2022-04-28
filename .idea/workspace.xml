@@ -5,32 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b88575ce-6096-4295-b4aa-fc23477310a9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/runner/ApiCreateStudentRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/runner/ApiShoppingcartRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/runner/ApiVehicleRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/runner/ApiViewAllStudentsRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/runner/ApiViewStudentDetailsRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/runner/BaseRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/runner/TokenRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/runner/mapDataRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/runner/testRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/Features/api-shoppingcart-v1/shoppingcart.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/Features/api-student/api.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/Features/api-student/createNewStudent.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/Features/api-student/token.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/Features/api-student/viewAllStudents.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/Features/api-student/viewStudentDetails.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/Features/api-vehicle/GetVehicleDetails.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/Features/api-vehicle/GetVehicleDetailsViaSource.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/Features/api-vehicle/api.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/Features/api-vehicle/mapData.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +20,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GithubDefaultAccount">
@@ -74,7 +50,7 @@
     "project.structure.last.edited": "Libraries",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+    "settings.editor.selected.configurable": "vcs.Git"
   }
 }]]></component>
   <component name="RecentsManager">
